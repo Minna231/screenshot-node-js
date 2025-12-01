@@ -3,14 +3,10 @@ Stellen Sie sicher, dass Node.js installiert ist. Erstellen Sie dann einen neuen
 
 Ordner erstellen und initialisieren:
 
-Bash
-
 mkdir node-screenshot
 cd node-screenshot
 npm init -y
 Puppeteer installieren:
-
-Bash
 
 npm install puppeteer
 💻 Schritt 2: Node.js-Code für den Screenshot
@@ -18,7 +14,6 @@ Erstellen Sie eine neue Datei namens screenshot.js und fügen Sie den folgenden 
 
 ▶️ Schritt 3: Code ausführen
 Führen Sie Ihr Node.js-Skript über das Terminal aus:
-
-Bash
-
 node screenshot.js
+
+Wenn Sie mehr erfahren möchten, besuchen Sie igas-berlin.de
