@@ -16,4 +16,4 @@ Erstellen Sie eine neue Datei namens screenshot.js und fügen Sie den folgenden 
 Führen Sie Ihr Node.js-Skript über das Terminal aus:
 node screenshot.js
 
-Wenn Sie mehr erfahren möchten, besuchen Sie igas-berlin.de
+Wenn Sie mehr erfahren möchten, besuchen Sie https://igas-berlin.de/
